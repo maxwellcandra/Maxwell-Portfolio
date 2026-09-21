@@ -8,7 +8,7 @@ function Hero() {
           Maxwell <span>Candra</span>
         </h1>
 
-        <h2>Computer Science Student / Interactive Multimedia</h2>
+        <h2>Computer Science Student | Interactive Multimedia</h2>
 
         <p className="hero-description">
           I create digital experiences by combining technology,

@@ -10,7 +10,7 @@ const experiences = [
   },
   {
     organization: 'AIM ASEAN x KUMPUL Impact',
-    role: 'Event Volunteer — Liaison Officer',
+    role: 'Event Volunteer | Liaison Officer',
     period: 'July 2026',
     descriptions: [
       'Supported a guest during The National Policy Convening Indonesia by assisting with event logistics, guiding the guest to the waiting room, and coordinating their timing to enter the event room and go on stage.',
