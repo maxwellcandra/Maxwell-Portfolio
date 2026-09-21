@@ -8,7 +8,7 @@ function Hero() {
           Maxwell <span>Candra</span>
         </h1>
 
-        <h2>Computer Science Student | Interactive Multimedia</h2>
+        <h2>Computer Science Student / Interactive Multimedia</h2>
 
         <p className="hero-description">
           I create digital experiences by combining technology,
@@ -20,9 +20,12 @@ function Hero() {
             View My Projects
           </a>
 
-          {/* <a href="/cv/Maxwell-Candra-CV.pdf" className="btn btn-secondary">
+          <a
+            href="/cv/Maxwell-Candra-CV.pdf"
+            className="btn btn-secondary"
+          >
             Download CV
-          </a> */}
+          </a>
         </div>
 
         <div className="hero-socials">
@@ -35,7 +38,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/maxwell-candra-51739a325/"
+            href="https://www.linkedin.com/"
             target="_blank"
             rel="noreferrer"
           >
@@ -46,7 +49,7 @@ function Hero() {
 
       <div className="hero-visual">
         <div className="hero-circle">
-          <span>MC</span>
+          <img src="/images/profile.jpeg" alt="Maxwell Candra" />
         </div>
       </div>
     </section>

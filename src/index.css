@@ -183,10 +183,12 @@ a {
     inset 0 0 60px rgba(94, 231, 247, 0.04);
 }
 
-.hero-circle span {
-  font-size: 80px;
-  font-weight: bold;
-  color: #5ee7f7;
+.hero-circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
 }
 
 /* MOBILE */
