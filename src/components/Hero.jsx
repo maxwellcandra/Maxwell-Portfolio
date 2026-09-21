@@ -20,12 +20,12 @@ function Hero() {
             View My Projects
           </a>
 
-          <a
+          {/* <a
             href="/cv/Maxwell-Candra-CV.pdf"
             className="btn btn-secondary"
           >
             Download CV
-          </a>
+          </a> */}
         </div>
 
         <div className="hero-socials">
