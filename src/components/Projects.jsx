@@ -34,7 +34,7 @@ const projects = [
     github: 'https://github.com/maxwellcandra/Spojedy',
   },
   {
-    title: 'Healty Diet',
+    title: 'Healthy Diet',
     type: 'Artificial Intelligence Project',
     description:
       'An AI-powered web application that helps users manage their daily diet through personalized recommendations and an interactive AI chatbot.',
@@ -42,6 +42,7 @@ const projects = [
     tools: ['HTML', 'Cascading Style Sheets (CSS)', 'JavaScript', 'TypeScript'],
     image: '/images/HealtyDiet.png',
     github: 'https://github.com/maxwellcandra/Healthy-Diet.git',
+    demo: 'https://drive.google.com/file/d/1Z_5rJl2hy05qfRVAOnugDusOLBX-l-1w/view?usp=sharing',
   },
   {
   title: 'MR.COFFEE',
@@ -161,7 +162,7 @@ function Projects() {
                         rel="noreferrer"
                         className="project-link"
                         >
-                        View XR Demo
+                        View Demo
                         </a>
                     )}
                 </div>
